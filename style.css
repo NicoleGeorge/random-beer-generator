@@ -22,6 +22,7 @@ body {
   color: rgb(255, 101, 45);
   font-size: 1.5rem;
   font-family: "Press Start 2P", cursive;
+  line-height: 2.5rem;
 }
 
 .description {
@@ -61,5 +62,5 @@ body {
 }
 
 img {
-    
+
 }
