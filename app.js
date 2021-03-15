@@ -8,18 +8,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return response.json();
     })
     .then((data) => {
-      console.log(data);
+      //   console.log(data);
       const name = data[0].name;
-      console.log(name);
+      //   console.log(name);
 
       const description = data[0].description;
-      console.log(description);
+      //   console.log(description);
 
       const { volume } = data[0];
       const volumeValue = volume.value;
       const volumeUnit = volume.unit;
 
-      console.log(volumeValue);
-      console.log(volumeUnit);
+      //   console.log(volumeValue);
+      //   console.log(volumeUnit);
+
+      randomBeer.innerHTML = name + " " + volumeValue + volumeUnit;
+      descriptionDisplay.innerHTML = description;
     });
 });
