@@ -4,7 +4,7 @@
 html,
 body {
     height: 100vh;
-    background-color: lightseagreen;
+    background-color: goldenrod;
 }
 
 .container {
@@ -19,14 +19,14 @@ body {
 
 .random-beer {
     margin-top: 150px;
-    color: saddlebrown;
+    color: rgb(255, 101, 45);
     font-size: 1.5rem;
     font-family: 'Press Start 2P', cursive;
 }
 
 .description {
     max-width: 64%;
-    color: saddlebrown;
+    color: lightgoldenrodyellow;
     font-family: 'Ubuntu', sans-serif;
     font-size: 0.5rem;
 }
