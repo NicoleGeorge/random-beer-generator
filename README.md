@@ -15,3 +15,7 @@ Button Presses:
 Random Beer Data
 </br>
 <a href="#" rel="nofollow"><img height="600" src="https://github.com/NicoleGeorge/random-beer-generator/blob/main/images/display-data.png" style="max-width:100%;" target="_blank"></a>
+
+Reference:
+### Button Style by: Marifer Villarroel via codepen
+### Tutorial: Anna Kubow
